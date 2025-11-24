@@ -1,4 +1,4 @@
-# game-hub2
+# game hub2
 
 ## Introduction
 
